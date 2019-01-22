@@ -1,7 +1,7 @@
 Designing : Zeplin
 Visualisation : invision
-Digvijay: Code analysing tool : sonnarqube
-Digvijay: Images : only vector images
+Code analysing tool : sonnarqube
+Images : only vector images
 Because vector images has an attributes so we can change colour, text dynamically
 Zoho for project management
 Gitlab free Version control

@@ -1,0 +1,13 @@
+Designing : Zeplin
+Visualisation : invision
+Digvijay: Code analysing tool : sonnarqube
+Digvijay: Images : only vector images
+Because vector images has an attributes so we can change colour, text dynamically
+Zoho for project management
+Gitlab free Version control
+Jenkins CI/CD
+App center for build creation n distribution
+Coding standard : clean code standard
+Either MVVM
+Layout : only Constraints layout (99%)
+Password saving tool: Jenkins kdbx
